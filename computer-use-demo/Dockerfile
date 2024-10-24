@@ -28,6 +28,7 @@ RUN apt-get update && \
     libncursesw5-dev \
     xz-utils \
     tk-dev \
+    libpci3 \
     libxml2-dev \
     libxmlsec1-dev \
     libffi-dev \
